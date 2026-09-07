@@ -12,7 +12,8 @@
 
 ## 🌟 About Me
 
-Thanks for stopping by! I'm Emmy, a developer who loves building things that actually work and scale. 
+Thanks for stopping by! I'm Emmy, a DevOps Engineer who loves building infrastructure that actually works and scales.
+
 ---
 
 ## 💻 Tech Stack
@@ -48,7 +49,7 @@ Thanks for stopping by! I'm Emmy, a developer who loves building things that act
 ---
 
 ## 🎯 What I'm Into
-- 
+- Automating deployments with CI/CD pipelines
 ---
 
 ## 🔗 Let's Connect
