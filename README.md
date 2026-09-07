@@ -40,7 +40,7 @@ Thanks for stopping by! I'm Emmy, a DevOps Engineer who loves building infrastru
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="40" height="40" />
   </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" title="Jenkins" width="40" height="40" />
   </a>
 </p>
