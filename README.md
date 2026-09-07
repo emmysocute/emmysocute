@@ -13,13 +13,6 @@
 ## 🌟 About Me
 
 Thanks for stopping by! I'm Emmy, a developer who loves building things that actually work and scale. 
-
-I'm passionate about:
-- **Writing clean code** that doesn't make me cry 6 months later 😅
-- **Cloud infrastructure** and making systems that are reliable
-- **Problem-solving** with a cup of coffee in hand ☕
-- **Learning new tech** — there's always something cool to explore
-
 ---
 
 ## 💻 Tech Stack
@@ -55,12 +48,7 @@ I'm passionate about:
 ---
 
 ## 🎯 What I'm Into
-
-- Building scalable systems that don't break at 2 AM 🚀
-- Exploring cloud infrastructure and deployment strategies
-- Contributing to projects where I can make a real impact
-- Mentoring and helping other developers grow
-
+- 
 ---
 
 ## 🔗 Let's Connect
@@ -78,9 +66,6 @@ I'm passionate about:
 
 ## 🚀 Fun Facts
 
-- I debug code better with music playing 🎵
-- Coffee is my second language ☕
-- I believe good documentation is a superpower 📚
 - Always open to collaborating on cool projects!
 
 ---
