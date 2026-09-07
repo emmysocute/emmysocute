@@ -4,7 +4,7 @@
 
 ![Welcome Animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### I'm **Wanattaphong Kamchoo** — but you can call me **Emmy** 😊
+### I'm **Wanattaphong Kamchoo** — but you can call me **Emmy**
 
 </div>
 
@@ -52,7 +52,7 @@ Thanks for stopping by! I'm Emmy, a DevOps Engineer who loves building infrastru
 - Automating deployments with CI/CD pipelines
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.github.com/emmysocute" target="_blank" rel="noreferrer" style="margin: 0 15px;">
@@ -65,7 +65,7 @@ Thanks for stopping by! I'm Emmy, a DevOps Engineer who loves building infrastru
 
 ---
 
-## 🚀 Fun Facts
+## 🚀Fun Facts
 
 - Always open to collaborating on cool projects!
 
@@ -73,9 +73,9 @@ Thanks for stopping by! I'm Emmy, a DevOps Engineer who loves building infrastru
 
 <div align="center">
 
-### Thanks for visiting! 🎉
+### Thanks for visiting! 
 
-Feel free to explore my repos, fork something, or just say hi! 👋
+Feel free to explore my repos, fork something, or just say Emmyyyyyyyyyyyyyyy! 
 
 ![Footer](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Emmy-%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-brightgreen)
 
